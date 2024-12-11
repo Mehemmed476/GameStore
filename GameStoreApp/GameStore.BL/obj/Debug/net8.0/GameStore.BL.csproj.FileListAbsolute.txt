@@ -1,0 +1,17 @@
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\bin\Debug\net8.0\GameStore.BL.deps.json
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\bin\Debug\net8.0\GameStore.BL.dll
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\bin\Debug\net8.0\GameStore.BL.pdb
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\bin\Debug\net8.0\GameStore.CORE.dll
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\bin\Debug\net8.0\GameStore.DAL.dll
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\bin\Debug\net8.0\GameStore.DAL.pdb
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\bin\Debug\net8.0\GameStore.CORE.pdb
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\GameStore.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\GameStore.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\GameStore.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\GameStore.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\GameStore.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\GameStor.AE3B125F.Up2Date
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\GameStore.BL.dll
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\refint\GameStore.BL.dll
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\GameStore.BL.pdb
+C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.BL\obj\Debug\net8.0\ref\GameStore.BL.dll
