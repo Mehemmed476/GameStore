@@ -3,17 +3,19 @@ using GameStore.BL.Services.Contretes;
 using GameStore.DAL.Contexts;
 using Microsoft.EntityFrameworkCore;
 using System;
+using GameStore.BL.Services.Concretes;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<GameShopDbContext>(
     opt =>
     {
-        opt.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"));
+        opt.UseSqlServer(builder.Configuration.GetConnectionString("MacBookMsSql"));
     }
     );
 
 builder.Services.AddScoped<IGenericCRUDService, GenericCRUDService>();
+builder.Services.AddScoped<IFileService, FileService>();
 
 var app = builder.Build();
 

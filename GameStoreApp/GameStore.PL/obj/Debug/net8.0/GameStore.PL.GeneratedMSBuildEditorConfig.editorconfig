@@ -17,63 +17,75 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameStore.PL
 build_property.RootNamespace = GameStore.PL
-build_property.ProjectDir = C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.PL\
+build_property.ProjectDir = /Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.PL
+build_property.MSBuildProjectDirectory = /Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/Dashboard/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZVxDcmVhdGUuY3NodG1s
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2FtZS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZVxEZXRhaWwuY3NodG1s
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2FtZS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZVxJbmRleC5jc2h0bWw=
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2FtZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Trash.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZVxUcmFzaC5jc2h0bWw=
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2FtZS9UcmFzaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Update.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZVxVcGRhdGUuY3NodG1s
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/Game/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2FtZS9VcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Areas/Admin/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Views/ProductDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdERldGFpbHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.PL/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,17 +1,35 @@
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.deps.json
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.runtimeconfig.json
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.dll
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.pdb
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\bin\Debug\net8.0\GameStore.CORE.dll
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\bin\Debug\net8.0\GameStore.CORE.pdb
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.csproj.AssemblyReference.cache
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.AssemblyInfoInputs.cache
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.AssemblyInfo.cs
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.csproj.CoreCompileInputs.cache
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStor.6BB5824C.Up2Date
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.dll
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\refint\GameStore.DAL.dll
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.pdb
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.genruntimeconfig.cache
-C:\Users\II Novbe\source\repos\GameStoreApp\GameStore.DAL\obj\Debug\net8.0\ref\GameStore.DAL.dll
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.DAL.deps.json
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.DAL.runtimeconfig.json
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.DAL.dll
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.DAL.pdb
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.CORE.dll
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.CORE.pdb
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.csproj.AssemblyReference.cache
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.AssemblyInfoInputs.cache
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.AssemblyInfo.cs
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.csproj.CoreCompileInputs.cache
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStor.6BB5824C.Up2Date
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.dll
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/refint/GameStore.DAL.dll
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.pdb
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.genruntimeconfig.cache
+C:/Users/II Novbe/source/repos/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/ref/GameStore.DAL.dll
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.DAL.deps.json
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.DAL.runtimeconfig.json
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.DAL.dll
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.DAL.pdb
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.CORE.dll
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/bin/Debug/net8.0/GameStore.CORE.pdb
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.csproj.AssemblyReference.cache
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.AssemblyInfo.cs
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.sourcelink.json
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.csproj.CopyComplete
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.dll
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/refint/GameStore.DAL.dll
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.pdb
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/GameStore.DAL.genruntimeconfig.cache
+/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/Debug/net8.0/ref/GameStore.DAL.dll

@@ -1,1 +1,68 @@
-﻿
+﻿@model List<TrashVM>
+
+<!-- DataTales Example -->
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary"> Trashed Games 
+            <span class="float-right">
+                <a type="button" class="btn btn-success" asp-area="Admin" asp-controller="Game" asp-action="Index">Active Games</a>
+            </span>
+        </h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Image</th>
+                    <th>Game Id</th>
+                    <th>Configures</th>
+                </tr>
+                </thead>
+                <tfoot>
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Image</th>
+                    <th>Game Id</th>
+                    <th>Configures</th>
+                </tr>
+                </tfoot>
+                <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td><span style="position: relative; top: 5px;">@item.Id</span> 
+                            <a type="button" class="btn btn-secondary" style="position: relative; top: 5px; left: 5px;" asp-area="Admin" asp-action="Details" asp-controller="Game" asp-route-Id="@item.Id">
+                                <i class="fa-solid fa-circle-info"></i>
+                            </a>
+                        </td>
+                        <td><span style="position: relative; top: 10px;">@item.Title</span></td>
+                        <td><span style="position: relative; top: 10px;">@item.Description</span></td>
+                        <td>
+                            <span style="position: relative; top: 10px;">
+                                <img src="~/Uploads/@item.ImageUrl" alt="@item.Title" style="width: 50px; height: 50px; object-fit: cover;">
+                            </span>
+                        </td>
+                        <td><span style="position: relative; top: 10px;">@item.GameId</span></td>
+                        <td>
+                            <a type="button" class="btn btn-light mt-2 ml-5 mr-3" asp-area="Admin" asp-action="Restore" asp-controller="Game" asp-route-Id="@item.Id">
+                                <i class="fa-solid fa-rotate-left"></i>
+                            </a> 
+                            <a type="button" class="btn btn-danger mt-2" asp-area="Admin" asp-action="Delete" asp-controller="Game" asp-route-Id="@item.Id">
+                                <i class="fa-solid fa-delete-left"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- /.container-fluid -->
