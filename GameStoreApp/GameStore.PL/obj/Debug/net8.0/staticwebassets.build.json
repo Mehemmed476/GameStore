@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qMt972QYFiT6mUxfW4UuOUvN4CEhIMDvBsXJ0YRlwOg=",
+  "Hash": "RebHi3L6auIzsb8vU0pRa9rhmUvE1gtmh7nFVbZf7mY=",
   "Source": "GameStore.PL",
   "BasePath": "_content/GameStore.PL",
   "Mode": "Default",
@@ -36248,6 +36248,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\wwwroot\\Uploads\\d0a84590-5c60-410c-9e7b-2d1e8b1ced36.jpg",
+      "SourceId": "GameStore.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\wwwroot\\",
+      "BasePath": "_content/GameStore.PL",
+      "RelativePath": "Uploads/d0a84590-5c60-410c-9e7b-2d1e8b1ced36.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\d0a84590-5c60-410c-9e7b-2d1e8b1ced36.jpg"
     }
   ]
 }

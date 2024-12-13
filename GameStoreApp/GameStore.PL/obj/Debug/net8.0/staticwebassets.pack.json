@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\wwwroot\\Uploads\\d0a84590-5c60-410c-9e7b-2d1e8b1ced36.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d0a84590-5c60-410c-9e7b-2d1e8b1ced36.jpg"
+    },
+    {
       "Id": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\wwwroot\\admin\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.css"
     },
