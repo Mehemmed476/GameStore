@@ -1,33 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/GameStore.PL.csproj": {}
+    "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\GameStore.PL.csproj": {}
   },
   "projects": {
-    "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.BL/GameStore.BL.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.BL\\GameStore.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.BL/GameStore.BL.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.BL\\GameStore.BL.csproj",
         "projectName": "GameStore.BL",
-        "projectPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.BL/GameStore.BL.csproj",
-        "packagesPath": "/Users/mehemmedxelilzade/.nuget/packages/",
-        "outputPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.BL/obj/",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.BL\\GameStore.BL.csproj",
+        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.BL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/mehemmedxelilzade/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/GameStore.DAL.csproj": {
-                "projectPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/GameStore.DAL.csproj"
+              "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.DAL\\GameStore.DAL.csproj": {
+                "projectPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.DAL\\GameStore.DAL.csproj"
               }
             }
           }
@@ -36,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,26 +75,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.CORE/GameStore.CORE.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.CORE\\GameStore.CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.CORE/GameStore.CORE.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.CORE\\GameStore.CORE.csproj",
         "projectName": "GameStore.CORE",
-        "projectPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.CORE/GameStore.CORE.csproj",
-        "packagesPath": "/Users/mehemmedxelilzade/.nuget/packages/",
-        "outputPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.CORE/obj/",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.CORE\\GameStore.CORE.csproj",
+        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.CORE\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/mehemmedxelilzade/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -95,6 +114,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -116,34 +140,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/GameStore.DAL.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.DAL\\GameStore.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/GameStore.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.DAL\\GameStore.DAL.csproj",
         "projectName": "GameStore.DAL",
-        "projectPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/GameStore.DAL.csproj",
-        "packagesPath": "/Users/mehemmedxelilzade/.nuget/packages/",
-        "outputPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.DAL/obj/",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.DAL\\GameStore.DAL.csproj",
+        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/mehemmedxelilzade/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.CORE/GameStore.CORE.csproj": {
-                "projectPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.CORE/GameStore.CORE.csproj"
+              "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.CORE\\GameStore.CORE.csproj": {
+                "projectPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.CORE\\GameStore.CORE.csproj"
               }
             }
           }
@@ -152,6 +183,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -189,34 +225,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/GameStore.PL.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\GameStore.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/GameStore.PL.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\GameStore.PL.csproj",
         "projectName": "GameStore.PL",
-        "projectPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/GameStore.PL.csproj",
-        "packagesPath": "/Users/mehemmedxelilzade/.nuget/packages/",
-        "outputPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.PL/obj/",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\GameStore.PL.csproj",
+        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.PL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/mehemmedxelilzade/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.BL/GameStore.BL.csproj": {
-                "projectPath": "/Users/mehemmedxelilzade/Desktop/GameStore/GameStoreApp/GameStore.BL/GameStore.BL.csproj"
+              "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.BL\\GameStore.BL.csproj": {
+                "projectPath": "C:\\Users\\II Novbe\\Desktop\\GameStore\\GameStoreApp\\GameStore.BL\\GameStore.BL.csproj"
               }
             }
           }
@@ -225,6 +268,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -261,7 +309,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

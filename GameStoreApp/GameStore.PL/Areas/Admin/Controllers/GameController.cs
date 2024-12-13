@@ -89,7 +89,7 @@ namespace GameStore.PL.Areas.Admin.Controllers
             return View(detailsVm);
         }
 
-        public async Task<IActionResult> Create()
+        public IActionResult Create()
         {
             return View();
         }

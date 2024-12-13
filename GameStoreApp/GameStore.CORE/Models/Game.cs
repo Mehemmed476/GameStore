@@ -16,5 +16,6 @@ namespace GameStore.CORE.Models
         public int NewPrice { get; set; }
         public string GameId { get; set; }
         public int HowMany { get; set; }
+        public ICollection<GameComment> GameComments { get; set; }
     }
 }

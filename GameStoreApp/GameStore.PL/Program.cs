@@ -10,7 +10,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<GameShopDbContext>(
     opt =>
     {
-        opt.UseSqlServer(builder.Configuration.GetConnectionString("MacBookMsSql"));
+        opt.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"));
     }
     );
 
