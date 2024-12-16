@@ -6,10 +6,12 @@ using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace GameStore.DAL.Contexts
 {
-    public class GameShopDbContext : DbContext
+    public class GameShopDbContext : IdentityDbContext<AppUser>
     {
         /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

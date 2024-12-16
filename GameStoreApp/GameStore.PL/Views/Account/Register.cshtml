@@ -1,0 +1,60 @@
+@{
+ViewData["Title"] = "Register";
+}
+@model RegisterVM;
+
+<head>
+  <link rel="stylesheet" href="~/assets/css/register.css">
+</head>
+
+<section class="register-section py-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-8">
+        <div class="register-form bg-light p-4 shadow rounded">
+          <h2 class="text-center mb-4">Create an Account</h2>
+          <form asp-controller="Account" asp-action="Register" method="post">
+            <div class="form-group mb-3">
+              <label asp-for="FirstName" class="form-label"></label>
+              <input asp-for="FirstName" class="form-control" placeholder="First Name">
+              <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+              <label asp-for="LastName" class="form-label"></label>
+              <input asp-for="LastName" class="form-control" placeholder="Last Name">
+              <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+              <label asp-for="Email" class="form-label"></label>
+              <input asp-for="Email" class="form-control" placeholder="Email">
+              <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+              <label asp-for="Username" class="form-label"></label>
+              <input asp-for="Username" class="form-control" placeholder="Username">
+              <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+              <label asp-for="Password" class="form-label"></label>
+              <input asp-for="Password" class="form-control" placeholder="Password" type="password">
+              <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+              <label asp-for="ConfirmPassword" class="form-label"></label>
+              <input asp-for="ConfirmPassword" class="form-control" placeholder="Repeat Password" type="password">
+              <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="text-center">
+              <button type="submit" class="btn btn-primary btn-block">Register</button>
+            </div>
+          </form>
+          <div class="text-center mt-3">
+            <p>Already have an account? <a asp-controller="Account" asp-action="Login">Sign in here</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+

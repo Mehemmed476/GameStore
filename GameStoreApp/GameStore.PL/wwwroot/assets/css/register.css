@@ -1,0 +1,62 @@
+.register-section {
+    background: linear-gradient(to bottom, #1e1e28, #2b2b36);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 0;
+}
+.register-form {
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 2.5rem;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    animation: fadeIn 0.8s ease-in-out;
+}
+.register-form h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #444;
+}
+.btn-primary {
+    background-color: #ff8800;
+    border-color: #ff8800;
+    font-size: 1rem;
+    padding: 0.6rem 1.5rem;
+    border-radius: 25px;
+}
+.btn-primary:hover {
+    background-color: #ff7700;
+    border-color: #ff7700;
+}
+input.form-control {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+input.form-control:focus {
+    border-color: #ff8800;
+    box-shadow: 0 0 6px rgba(255, 136, 0, 0.5);
+}
+.form-label {
+    font-weight: 500;
+    color: #666;
+}
+footer {
+    background-color: #1e1e28;
+    color: #ffffff;
+    padding: 1rem 0;
+    text-align: center;
+    margin-top: -20px;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

@@ -38,8 +38,9 @@ public class ProductDetailsController : Controller
     [HttpPost]
     public async Task<IActionResult> Index(ProductDetailVM productDetailVM)
     {
-        if(!ModelState.IsValid) { return View(productDetailVM); }
-        GameComment gameComment = new GameComment() 
+        if (!ModelState.IsValid) { return View(productDetailVM); }
+    
+        GameComment gameComment = new GameComment
         {
             Comment = productDetailVM.newComment,
             GameId = productDetailVM.Id
@@ -47,23 +48,7 @@ public class ProductDetailsController : Controller
 
         await _service.CreateAsync(gameComment);
 
-        Game? game = await _service.GetByIdAsync<Game>(productDetailVM.Id);
-        if (game == null) { return BadRequest(); }
-        var gameComments = await _service.GetAllAsync<GameComment>();
-        game.GameComments = gameComments.Where(gc => gc.GameId == productDetailVM.Id).ToList();
-
-        ProductDetailVM currentProductDetailVM = new ProductDetailVM()
-        {
-            Id = game.Id,
-            Title = game.Title,
-            Description = game.Description,
-            GameId = game.GameId,
-            ImageUrl = game.ImageUrl,
-            Price = game.Price,
-            NewPrice = game.NewPrice,
-            HowMany = game.HowMany,
-            GameComments = game.GameComments
-        };
-        return View(currentProductDetailVM);
+        ModelState.Clear();
+        return RedirectToAction("Index", new { id = productDetailVM.Id });
     }
 }
